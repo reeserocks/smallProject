@@ -27,7 +27,7 @@
     </div>
 
     <footer>
-        <a href="https://etbd.tech/hausmar2_455707/" id="footer">reese hausman ims322</a>
+        <p id="footer">reese hausman ims322</p>
     </footer>
   
 <script>
@@ -35,7 +35,7 @@
     const list = document.querySelector("ul");
     const div2 = document.querySelector(".detail");
 
-    const csvget = "https://raw.githubusercontent.com/reeserocks/smallProject/refs/heads/main/11-small%20project/topSongs.csv";
+    const csvget = "https://raw.githubusercontent.com/reeserocks/smallProject/refs/heads/main/11-small%20project/convertcsv.json";
 
     let songs = [];
 
@@ -52,7 +52,7 @@
 
     showOneSong = (id) => {
         const index = id - 1;
-        div2.innerHTML = `<img src="https://github.com/reeserocks/smallProject/blob/main/11-small%20project/images/${songs[index].image}">
+        div2.innerHTML = `<img src="https://raw.githubusercontent.com/reeserocks/smallProject/refs/heads/main/11-small%20project/images/${songs[index].image}">
         <br>
         <h2>${songs[index].track}</h2><h3>${songs[index].artist}</h3><h4>${songs[index].release}</h4>`;
     };
