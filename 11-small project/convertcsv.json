@@ -1,0 +1,702 @@
+[
+ {
+   "id": 1,
+   "track": "Jigsaw Falling Into Place",
+   "artist": "Radiohead",
+   "release": "2007-12-28",
+   "image": "inrainbows.png"
+ },
+ {
+   "id": 2,
+   "track": "Where I End and You Begin",
+   "artist": "Radiohead",
+   "release": "2003-06-09",
+   "image": "httt.png"
+ },
+ {
+   "id": 3,
+   "track": "Nude",
+   "artist": "Radiohead",
+   "release": "2007-12-28",
+   "image": "inrainbows.png"
+ },
+ {
+   "id": 4,
+   "track": "On tha linë",
+   "artist": "Yeat",
+   "release": "2022-02-18",
+   "image": "2alive.png"
+ },
+ {
+   "id": 5,
+   "track": "Weird Fishes/ Arpeggi",
+   "artist": "Radiohead",
+   "release": "2007-12-28",
+   "image": "inrainbows.png"
+ },
+ {
+   "id": 6,
+   "track": "Yah Mean",
+   "artist": "Playboi Carti",
+   "release": "2017-04-14",
+   "image": "carti.jpg"
+ },
+ {
+   "id": 7,
+   "track": "Princess Diana",
+   "artist": "Ice Spice",
+   "release": "2023-04-18",
+   "image": "diana.png"
+ },
+ {
+   "id": 8,
+   "track": "Out thë way",
+   "artist": "Yeat",
+   "release": "2022-09-09",
+   "image": "lyfe.webp"
+ },
+ {
+   "id": 9,
+   "track": "How to Disappear Completely",
+   "artist": "Radiohead",
+   "release": "2000-10-02",
+   "image": "kida.png"
+ },
+ {
+   "id": 10,
+   "track": "Kicking Cars",
+   "artist": "Panchiko",
+   "release": "2000-12-05",
+   "image": "deathmetal.webp"
+ },
+ {
+   "id": 11,
+   "track": "In Ha Mood",
+   "artist": "Ice Spice",
+   "release": "2023-01-06",
+   "image": "hamood.jpg"
+ },
+ {
+   "id": 12,
+   "track": "Wat it feel lykë",
+   "artist": "Yeat",
+   "release": "2022-09-09",
+   "image": "lyfe.webp"
+ },
+ {
+   "id": 13,
+   "track": "In Limbo",
+   "artist": "Radiohead",
+   "release": "2000-10-02",
+   "image": "kida.png"
+ },
+ {
+   "id": 14,
+   "track": "M.... She Wrote",
+   "artist": "Tay-K",
+   "release": "2017-12-14",
+   "image": "santanaworld.jpg"
+ },
+ {
+   "id": 15,
+   "track": "D>E>A>T>H>M>E>T>A>L",
+   "artist": "Panchiko",
+   "release": "2000-12-05",
+   "image": "deathmetal.webp"
+ },
+ {
+   "id": 16,
+   "track": "Sunset",
+   "artist": "LUCKI",
+   "release": "2017-08-05",
+   "image": "sunset.jpg"
+ },
+ {
+   "id": 17,
+   "track": "Morning Bell",
+   "artist": "Radiohead",
+   "release": "2000-10-02",
+   "image": "kida.png"
+ },
+ {
+   "id": 18,
+   "track": "Lean 4 Real",
+   "artist": "Playboi Carti,Skepta",
+   "release": "2018-05-11",
+   "image": "dielit.jpg"
+ },
+ {
+   "id": 19,
+   "track": "Swërved It",
+   "artist": "Yeat",
+   "release": "2021-09-10",
+   "image": "up2me.png"
+ },
+ {
+   "id": 20,
+   "track": "Dead n Gone",
+   "artist": "Luci4",
+   "release": "2021-06-06",
+   "image": "deadngone.jpg"
+ },
+ {
+   "id": 21,
+   "track": "Fake Plastic Trees",
+   "artist": "Radiohead",
+   "release": "1995-03-13",
+   "image": "thebends.png"
+ },
+ {
+   "id": 22,
+   "track": "Saran Pack",
+   "artist": "Tay-K",
+   "release": "2017-12-14",
+   "image": "santanaworld.jpg"
+ },
+ {
+   "id": 23,
+   "track": "Poppin",
+   "artist": "Yeat",
+   "release": "2022-02-18",
+   "image": "2alive.png"
+ },
+ {
+   "id": 24,
+   "track": "life imitates life",
+   "artist": "quannnic",
+   "release": "2022-02-28",
+   "image": "kenopsia.jpg"
+ },
+ {
+   "id": 25,
+   "track": "Idioteque",
+   "artist": "Radiohead",
+   "release": "2000-10-02",
+   "image": "kida.png"
+ },
+ {
+   "id": 26,
+   "track": "Nodding Off",
+   "artist": "Narrow Head",
+   "release": "2020-08-28",
+   "image": "12houserock.jpg"
+ },
+ {
+   "id": 27,
+   "track": "Black Beatles",
+   "artist": "Rae Sremmurd,Gucci Mane",
+   "release": "2016-08-12",
+   "image": "sremmlife2.jpg"
+ },
+ {
+   "id": 28,
+   "track": "**** ME OUT",
+   "artist": "NLE Choppa",
+   "release": "2023-04-14",
+   "image": "slutmeout.jpg"
+ },
+ {
+   "id": 29,
+   "track": "Everything In Its Right Place",
+   "artist": "Radiohead",
+   "release": "2000-10-02",
+   "image": "kida.png"
+ },
+ {
+   "id": 30,
+   "track": "Moonlight on the River",
+   "artist": "Mac DeMarco",
+   "release": "2017-05-05",
+   "image": "thisolddog.png"
+ },
+ {
+   "id": 31,
+   "track": "Nun id change",
+   "artist": "Yeat",
+   "release": "2023-02-24",
+   "image": "afterlyfe.jpg"
+ },
+ {
+   "id": 32,
+   "track": "Ashtray",
+   "artist": "Narrow Head",
+   "release": "2020-08-14",
+   "image": "satisfaction.jpg"
+ },
+ {
+   "id": 33,
+   "track": "Knives Out",
+   "artist": "Radiohead",
+   "release": "2001-03-12",
+   "image": "amnesiac.png"
+ },
+ {
+   "id": 34,
+   "track": "Youngest Daughter",
+   "artist": "Superheaven",
+   "release": "2013-04-05",
+   "image": "jar.jpg"
+ },
+ {
+   "id": 35,
+   "track": "Out My Way",
+   "artist": "LUCKI",
+   "release": "2019-02-15",
+   "image": "freewave3.jpg"
+ },
+ {
+   "id": 36,
+   "track": "Money Twërk",
+   "artist": "Yeat",
+   "release": "2021-06-10",
+   "image": "4l.jpg"
+ },
+ {
+   "id": 37,
+   "track": "High and Dry",
+   "artist": "Radiohead",
+   "release": "1995-03-13",
+   "image": "thebends.png"
+ },
+ {
+   "id": 38,
+   "track": "KEKE",
+   "artist": "6ix9ine,Fetty Wap,A Boogie Wit da Hoodie",
+   "release": "2018-04-10",
+   "image": "gradday.jpg"
+ },
+ {
+   "id": 39,
+   "track": "Bikini Bottom",
+   "artist": "Ice Spice",
+   "release": "2023-07-21",
+   "image": "bikinibottom.jpg"
+ },
+ {
+   "id": 40,
+   "track": "Talk",
+   "artist": "Yeat",
+   "release": "2022-09-09",
+   "image": "lyfe.webp"
+ },
+ {
+   "id": 41,
+   "track": "Bloom",
+   "artist": "Radiohead",
+   "release": "2011-02-18",
+   "image": "tkol.png"
+ },
+ {
+   "id": 42,
+   "track": "Serpentskirt",
+   "artist": "Cocteau Twins",
+   "release": "1996-03",
+   "image": "milkkisses.jpg"
+ },
+ {
+   "id": 43,
+   "track": "Stay",
+   "artist": "Narrow Head",
+   "release": "2020-08-14",
+   "image": "satisfaction.jpg"
+ },
+ {
+   "id": 44,
+   "track": "Let It Go",
+   "artist": "Playboi Carti",
+   "release": "2017-04-14",
+   "image": "carti.jpg"
+ },
+ {
+   "id": 45,
+   "track": "You And Whose Army?",
+   "artist": "Radiohead",
+   "release": "2001-03-12",
+   "image": "amnesiac.png"
+ },
+ {
+   "id": 46,
+   "track": "Money Trees",
+   "artist": "Kendrick Lamar,Jay Rock",
+   "release": "2012",
+   "image": "maadcity.jpg"
+ },
+ {
+   "id": 47,
+   "track": "Nervous Habits",
+   "artist": "Narrow Head",
+   "release": "2020-08-14",
+   "image": "farremoved.jpg"
+ },
+ {
+   "id": 48,
+   "track": "Be Quiet and Drive (Far Away)",
+   "artist": "Deftones",
+   "release": "1997-10-27",
+   "image": "atf.jpg"
+ },
+ {
+   "id": 49,
+   "track": "Scatterbrain",
+   "artist": "Radiohead",
+   "release": "2003-06-09",
+   "image": "httt.png"
+ },
+ {
+   "id": 50,
+   "track": "PTPOM 2.0",
+   "artist": "Mohead Mike,Moneybagg Yo,Big Boogie",
+   "release": "2022-02-25",
+   "image": "ptpom.jpg"
+ },
+ {
+   "id": 51,
+   "track": "Magnolia",
+   "artist": "Playboi Carti",
+   "release": "2017-04-14",
+   "image": "carti.jpg"
+ },
+ {
+   "id": 52,
+   "track": "Father Stretch My Hands Pt. 1",
+   "artist": "Kanye West",
+   "release": "2016-06-10",
+   "image": "pablo.jpg"
+ },
+ {
+   "id": 53,
+   "track": "2 + 2 = 5",
+   "artist": "Radiohead",
+   "release": "2003-06-09",
+   "image": "httt.png"
+ },
+ {
+   "id": 54,
+   "track": "JETLGGD",
+   "artist": "Destroy Lonely",
+   "release": "2022-08-12",
+   "image": "nostylist.jpg"
+ },
+ {
+   "id": 55,
+   "track": "Relay",
+   "artist": "trauma ray",
+   "release": "2018-09-21",
+   "image": "tr.jpg"
+ },
+ {
+   "id": 56,
+   "track": "The Way Things Are",
+   "artist": "Fiona Apple",
+   "release": "1999-11-09",
+   "image": "pawn.jpg"
+ },
+ {
+   "id": 57,
+   "track": "Bodysnatchers",
+   "artist": "Radiohead",
+   "release": "2007-12-28",
+   "image": "inrainbows.png"
+ },
+ {
+   "id": 58,
+   "track": "HiiiPower",
+   "artist": "Kendrick Lamar",
+   "release": "2011-07-02",
+   "image": "section80.jpg"
+ },
+ {
+   "id": 59,
+   "track": "Emmadazey",
+   "artist": "Narrow Head",
+   "release": "2020-08-28",
+   "image": "12houserock.jpg"
+ },
+ {
+   "id": 60,
+   "track": "435",
+   "artist": "Tyler, The Creator",
+   "release": "2018-06-08",
+   "image": "435.jpg"
+ },
+ {
+   "id": 61,
+   "track": "Black Star",
+   "artist": "Radiohead",
+   "release": "1995-03-13",
+   "image": "thebends.png"
+ },
+ {
+   "id": 62,
+   "track": "Into Me",
+   "artist": "Glare",
+   "release": "2017-04-29",
+   "image": "intoyou.jpg"
+ },
+ {
+   "id": 63,
+   "track": "Make It Hurt",
+   "artist": "Narrow Head",
+   "release": "2020-08-14",
+   "image": "farremoved.jpg"
+ },
+ {
+   "id": 64,
+   "track": "Wokeup",
+   "artist": "KANKAN",
+   "release": "2021-10-25",
+   "image": "wokeup.jpg"
+ },
+ {
+   "id": 65,
+   "track": "All I Need",
+   "artist": "Radiohead",
+   "release": "2007-12-28",
+   "image": "inrainbows.png"
+ },
+ {
+   "id": 66,
+   "track": "Heaven or Las Vegas",
+   "artist": "Cocteau Twins",
+   "release": "1990-09-17",
+   "image": "heavenorlasvegas.jpg"
+ },
+ {
+   "id": 67,
+   "track": "valium",
+   "artist": "Levi Ryan",
+   "release": "2022-05-21",
+   "image": "valium.jpg"
+ },
+ {
+   "id": 68,
+   "track": "Lit Like Bic",
+   "artist": "Rae Sremmurd",
+   "release": "2015-01-06",
+   "image": "sremmlife.jpg"
+ },
+ {
+   "id": 69,
+   "track": "Karma Police",
+   "artist": "Radiohead",
+   "release": "1997-05-28",
+   "image": "okcomputer.png"
+ },
+ {
+   "id": 70,
+   "track": "Ponderosa Sun Club",
+   "artist": "Narrow Head",
+   "release": "2020-08-28",
+   "image": "12houserock.jpg"
+ },
+ {
+   "id": 71,
+   "track": "Fade Into You",
+   "artist": "Mazzy Star",
+   "release": "1993-10-05",
+   "image": "sotonight.jpg"
+ },
+ {
+   "id": 72,
+   "track": "Location",
+   "artist": "Playboi Carti",
+   "release": "2017-04-14",
+   "image": "carti.jpg"
+ },
+ {
+   "id": 73,
+   "track": "Lucky",
+   "artist": "Radiohead",
+   "release": "1997-05-28",
+   "image": "okcomputer.png"
+ },
+ {
+   "id": 74,
+   "track": "Love Scars",
+   "artist": "Trippie Redd",
+   "release": "2017-05-14",
+   "image": "lovescars.jpg"
+ },
+ {
+   "id": 75,
+   "track": "In The Party",
+   "artist": "Flo Milli",
+   "release": "2020-07-24",
+   "image": "intheparty.jpg"
+ },
+ {
+   "id": 76,
+   "track": "Ghostride",
+   "artist": "Crumb",
+   "release": "2019-06-14",
+   "image": "jinx.jpg"
+ },
+ {
+   "id": 77,
+   "track": "Lift",
+   "artist": "Radiohead",
+   "release": "2017-06-23",
+   "image": "oknotok.jpg"
+ },
+ {
+   "id": 78,
+   "track": "Champagne Supernova",
+   "artist": "Oasis",
+   "release": "1995",
+   "image": "morningglory.jpg"
+ },
+ {
+   "id": 79,
+   "track": "CUT",
+   "artist": "Panchiko",
+   "release": "2000-12-05",
+   "image": "deathmetal.webp"
+ },
+ {
+   "id": 80,
+   "track": "Dark Knight Dummo",
+   "artist": "Trippie Redd,Travis Scott",
+   "release": "2018-08-10",
+   "image": "trip.jpg"
+ },
+ {
+   "id": 81,
+   "track": "Reckoner",
+   "artist": "Radiohead",
+   "release": "2007-12-28",
+   "image": "inrainbows.png"
+ },
+ {
+   "id": 82,
+   "track": "Rich ***** ****",
+   "artist": "21 Savage,Metro Boomin,Young Thug",
+   "release": "2020-10-02",
+   "image": "savage2.png"
+ },
+ {
+   "id": 83,
+   "track": "*****, Don’t Kill My Vibe - Remix",
+   "artist": "Kendrick Lamar,JAY-Z",
+   "release": "2012",
+   "image": "maadcity.jpg"
+ },
+ {
+   "id": 84,
+   "track": "In Slow Time",
+   "artist": "Narrow Head",
+   "release": "2020-08-14",
+   "image": "farremoved.jpg"
+ },
+ {
+   "id": 85,
+   "track": "Kid A",
+   "artist": "Radiohead",
+   "release": "2000-10-02",
+   "image": "kida.png"
+ },
+ {
+   "id": 86,
+   "track": "Sea, Swallow Me",
+   "artist": "Cocteau Twins,Harold Budd",
+   "release": "1986-11-10",
+   "image": "moonmelodies.jpg"
+ },
+ {
+   "id": 87,
+   "track": "Chamber Of Reflection",
+   "artist": "Mac DeMarco",
+   "release": "2014-03-28",
+   "image": "saladdays.jpg"
+ },
+ {
+   "id": 88,
+   "track": "See You Again",
+   "artist": "Tyler, The Creator,Kali Uchis",
+   "release": "2017-07-21",
+   "image": "seeuagain.jpg"
+ },
+ {
+   "id": 89,
+   "track": "Let Down",
+   "artist": "Radiohead",
+   "release": "1997-05-28",
+   "image": "okcomputer.png"
+ },
+ {
+   "id": 90,
+   "track": "Sunday",
+   "artist": "The Cranberries",
+   "release": "1993-03-01",
+   "image": "everybody.jpg"
+ },
+ {
+   "id": 91,
+   "track": "Ode To Viceroy",
+   "artist": "Mac DeMarco",
+   "release": "2013-08-09",
+   "image": "two.png"
+ },
+ {
+   "id": 92,
+   "track": "Mascara",
+   "artist": "Deftones",
+   "release": "1997-10-27",
+   "image": "atf.jpg"
+ },
+ {
+   "id": 93,
+   "track": "House Of Cards",
+   "artist": "Radiohead",
+   "release": "2007-12-28",
+   "image": "inrainbows.png"
+ },
+ {
+   "id": 94,
+   "track": "Come On, Let's Go",
+   "artist": "Tyler, The Creator,Nigo",
+   "release": "2022-03-25",
+   "image": "iknow.jpg"
+ },
+ {
+   "id": 95,
+   "track": "Ric Flair Drip",
+   "artist": "Offset,Metro Boomin",
+   "release": "2017-10-30",
+   "image": "withoutwarning.png"
+ },
+ {
+   "id": 96,
+   "track": "Linger",
+   "artist": "The Cranberries",
+   "release": "1993-03-01",
+   "image": "everybody.jpg"
+ },
+ {
+   "id": 97,
+   "track": "Down Is The New Up",
+   "artist": "Radiohead",
+   "release": "2007",
+   "image": "inrainbows2.jpg"
+ },
+ {
+   "id": 98,
+   "track": "Money Longer",
+   "artist": "Lil Uzi Vert",
+   "release": "2016-05-27",
+   "image": "moneylonger.jpg"
+ },
+ {
+   "id": 99,
+   "track": "Pink + White",
+   "artist": "Frank Ocean",
+   "release": "2016-08-20",
+   "image": "blond.jpg"
+ },
+ {
+   "id": 100,
+   "track": "Throw Sum Mo",
+   "artist": "Rae Sremmurd,Nicki Minaj,Young Thug",
+   "release": "2015-01-06",
+   "image": "sremmlife.jpg"
+ }
+]
