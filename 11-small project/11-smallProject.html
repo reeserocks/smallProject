@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Spotify Top Songs 2023</title>
+  <link href="smallProject.css" rel="stylesheet">
+
+  <!--fonts-->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&family=Itim&family=Madimi+One&family=Varela+Round&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <h1 id="title">my top 100 songs on spotify in 2023 ☄. *. ⋆</h1>
+    <div class="container">
+        <div class="main">
+                <ul></ul>
+                <ul class="hide">Artist</ul>
+                <ul class="hide">Release Date</ul>
+        </div>
+        <div class="detail"></div>
+        <div class="embed">
+            <iframe style="border-radius:50px" src="https://open.spotify.com/embed/playlist/41Gck3SWlk5epSSgeCBSNp?utm_source=generator" width="100%" height="100%" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        </div>
+    </div>
+
+    <footer>
+        <a href="https://etbd.tech/hausmar2_455707/" id="footer">reese hausman ims322</a>
+    </footer>
+  
+<script>
+    const main = document.querySelector(".main");
+    const list = document.querySelector("ul");
+    const div2 = document.querySelector(".detail");
+
+    const csvget = "https://raw.githubusercontent.com/reeserocks/smallProject/refs/heads/main/11-small%20project/topSongs.csv";
+
+    let songs = [];
+
+    const showSongs = (songs) => {
+        songs.forEach(item => list.innerHTML += `
+            <ul data-id="${item.id}">
+                <li>${item.track}</li>
+                <li class="hide">${item.artist}</li>
+                <li class="hide">${item.release}</li>
+            </ul>
+        `);
+    };
+
+
+    showOneSong = (id) => {
+        const index = id - 1;
+        div2.innerHTML = `<img src="https://github.com/reeserocks/smallProject/blob/main/11-small%20project/images/${songs[index].image}">
+        <br>
+        <h2>${songs[index].track}</h2><h3>${songs[index].artist}</h3><h4>${songs[index].release}</h4>`;
+    };
+
+
+    async function getFile () {
+        const response = await fetch(csvget);
+        const data = await response.json();
+        songs = [...data];
+        showSongs(songs);
+    };
+
+    getFile();
+
+
+    document.addEventListener("click",function(event) {
+        if (event.target.parentElement.dataset.id) {
+            showOneSong(event.target.parentElement.dataset.id);
+        }
+        else if (event.target.tagName === 'BUTTON') {
+            div2.style.display = "none";
+        }
+    });
+</script>
+
+</body>
+</html>
